@@ -2,6 +2,30 @@
 A Python implementation of "M3W: Multistep Three-Way Clustering"
 
 ## introduction
+A Python implementation of the clustering algorithm presented in:
+
+ **Mingjing Du, Jingqi Zhao, Jiarui Sun, Yongquan Dong (2022). [M3W: Multistep Three-Way Clustering](https://dumingjing.github.io/publication/2022-tnnls-m3w-dumj/). *IEEE Transactions on Neural Networks and Learning Systems*.**
+
 The paper is available online at: [pdf](https://dumingjing.github.io/publication/2022-tnnls-m3w-dumj/2022-tnnls-m3w-dumj.pdf).
 
-Recently, we have been occupied with writing several new papers. The corresponding code will be cleaned up as soon as time permits. The code is expected to be uploaded in the spring of 2023.
+lf you use this implementation in your work, please add a reference/citation to the paper.You can use the followingbibtex entry:
+
+```
+@article{du2022m3w,
+  title={M3W: Multistep Three-Way Clustering},
+  author={Du, Mingjing and Zhao, Jingqi and Sun, Jiarui and Dong, Yongquan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={},
+  number={},
+  pages={1-14},
+  year={2022},
+  doi={10.1109/TNNLS.2022.3208418}
+}
+```
+
+
+
+
+
+
+
