@@ -15,10 +15,10 @@ lf you use this implementation in your work, please add a reference/citation to 
   title={M3W: Multistep Three-Way Clustering},
   author={Du, Mingjing and Zhao, Jingqi and Sun, Jiarui and Dong, Yongquan},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
-  volume={},
-  number={},
-  pages={1-14},
-  year={2022},
+  volume={35},
+  number={4},
+  pages={5627--5640},
+  year={2024},
   doi={10.1109/TNNLS.2022.3208418}
 }
 ```
